@@ -1,0 +1,26 @@
+body {
+    padding: 10px;
+  }
+  
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 200px 200px 200px;
+	border-radius: 4px;
+}
+label {
+	font-size: 15px;
+    padding-top: 17px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+button{
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
